@@ -1,0 +1,10 @@
+.cask
+**/*~
+cider-history
+elpa
+elpy
+ido.last
+.org-id-locations
+places
+projectile-bookmarks.eld
+.recentf
